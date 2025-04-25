@@ -1,4 +1,4 @@
-# RUSANESCU Andrei-Marian 313CC
+# Copyright Andrei Rusanescu
 
 1. Anomaly detection
 2. Kernel Regression
